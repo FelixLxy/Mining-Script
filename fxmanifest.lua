@@ -2,9 +2,9 @@ fx_version 'adamant'
 
 game 'gta5'
 lua54 'yes'
-description 'RLC Farming'
+description 'Farming'
 
-version '1.8.5'
+version '1.0'
 
 shared_script '@es_extended/imports.lua'
 

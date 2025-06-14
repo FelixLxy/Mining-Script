@@ -17,7 +17,6 @@ Config.CircleZones = {
 	FarmField = {coords = vector3(2934.26, 2743.64, 44.99), name = TranslateCap('Mine'), color = 21, sprite = 745, radius = 80.0},
 }
 
-Config.UseOxInventory = true
 
 Config.SpawnProp = {
     coords = {
